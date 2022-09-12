@@ -1,6 +1,6 @@
 /*
  *        File: git-lab-program.cc
- *      Nicole 
+ *        Name: Nicole Grant 
  *        Date: 9/12/22
  * Description: "Hello Git!" upload to online repo
  */
